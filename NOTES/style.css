@@ -1,0 +1,182 @@
+
+body
+{
+    background-image: url( Fon3.jpg);
+    background-attachment: fixed;
+    overflow-x: hidden;
+}
+.form
+{
+    background-color:none;
+    width: 30%;
+    opacity:1;
+    text-align:left;
+    padding: 10px 15px 10px 10px;
+    font-family:fantasy ;
+    font-size: 20 px;
+    color:grey;
+    margin-bottom: 30px;
+    height: auto;
+} 
+.form2
+{
+    background-color:lightgoldenrodyellow;
+    width: 30%;
+    opacity: 0.7;
+    text-align: left;
+    padding: 5px 5px 5px 5px;
+    font-family:fantasy;
+    font-size: 18px;
+    color:saddlebrown;
+    margin-bottom: 30px;
+    height: auto;
+}
+.form2:hover{
+    opacity: 1;
+}
+b {
+    color: forestgreen;
+}
+h1,h2
+{
+    font-family: fantasy;
+    color: lightgoldenrodyellow;
+    text-align: center;
+}
+h5
+{
+    margin-bottom: -20px;
+    margin-top: 0px;
+}
+h5:hover
+{
+     background-color:burlywood;
+}
+.btn
+{
+   
+    visibility: hidden;
+    
+}
+.btn3
+{
+    font-family: fantasy;
+    font-size: 20px;
+    background-image: url( Fon2.jpg);
+    color: forestgreen;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    outline: none;
+    border: 2px solid grey;
+    border-radius: 10px;
+}
+.btn3:hover
+{
+    display: block;
+    background-image: none;
+    background-color: lightgoldenrodyellow;
+    border-radius: 10px;
+}
+
+.btn1
+{
+    font-family: fantasy;
+    font-size: 26px;
+    background-color:lightgoldenrodyellow;
+    color: red;
+    border: none;
+    outline: inherit;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    
+}
+#delete
+{
+     margin-top: 0px;
+     
+}
+.data
+{
+    width: 60%;
+    background-color: azure;
+    height: 24px;
+    font-family:monospace;
+    color:#17810e;
+    font-size: 20px;
+    outline: none;
+    border: none;
+}
+label
+{
+    font-family: fantasy;
+    font-size: 20px;
+    color: lightgoldenrodyellow;
+}
+a {
+    text-decoration:none;
+}
+a:hover
+{
+    display: block;
+    color:forestgreen;
+    transform:skewX(-5deg);
+}
+p  {
+     font-family: cursive;
+     font-size: 18px;
+     color:lightgoldenrodyellow;
+}
+.note
+{
+    width: 100%;
+    height:auto;
+    opacity: 0.8;
+    resize: none;
+    background-color:lightgoldenrodyellow;
+    font-family:monospace;
+    font-size: 18px;
+    color:black;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    outline: none;
+    border: none;
+}
+.note:hover
+{
+    opacity: 1;
+}
+.note2
+{
+    width: 100%;
+    height: 100px;
+    resize: none;
+    background-color:lightgoldenrodyellow;
+    font-family:monospace;
+    font-size: 18px;
+    color:darkslategray;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    outline: none;
+    border: none;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.id
+{
+    width:10px;
+    height: 10px;
+    visibility: hidden;
+    padding: 0 0 0 0;
+}
+footer
+{
+    color:lightgoldenrodyellow;
+    font-family:fantasy ;
+    font-size: 16px;
+    text-align: center;
+}
+#delete
+{
+    text-align: right;
+}
